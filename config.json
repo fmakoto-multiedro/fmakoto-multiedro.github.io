@@ -1,14 +1,18 @@
 {
     "workflowApiVersion": "1.1",
     "metaData": {
-        "icon": "images/logo-multiedro-sq-180.png",
+        "icon": "images/logo-multiedro-sq-40.png",
         "category": "message"
     },
     "type": "REST",
     "lang": {
         "en-US": {
-            "name": "REST Activity (Workflow API v1.1)",
+            "name": "REST Activity (Multiedro Test)",
             "description": "An example REST activity using workflow API v1.1 format."
+        },
+        "pt-BR": {
+            "name": "Atividade REST (Teste Multiedro)",
+            "description": "Um exemplo de atividade REST utilizando o formato API v1.1."
         }
     },
     "arguments": {
